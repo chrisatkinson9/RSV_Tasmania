@@ -22,4 +22,4 @@ _Figure 6: Expanded epi-fishplot of RSV subtypes in Tasmania covering the period
 <br>
 <br>
 ![growth plot](https://github.com/chrisatkinson9/RSV_Tasmania/assets/165222680/ab08efdd-227c-424d-8573-0050d0b0315a)  
-_Figure 7: SkyGrid reconstruction plot of Tasmanian RSV-A and RSV-B specimens (2021-2023). RSV-A demonstrated relatively a stable effective population size throughout Tasmania's lockdown border period; population shrinkage occurred during the second half of 2022 and into the start of 2023. RSV-B exhibited 2 significant increases in effective population size during 2021 and 2022, leading into the two surges in 2022 and 2023 where RSV-B was the dominant subtype._
+_Figure 7: SkyGrid reconstruction plot of Tasmanian RSV-A and RSV-B specimens (2021-2023). RSV-A demonstrated relatively a stable effective population size throughout Tasmania's lockdown border period; population shrinkage of RSV-A occurred during the second half of 2022 and into the start of 2023. RSV-B exhibited 2 significant increases in effective population size during 2021 and 2022, leading into the two surges in 2022 and 2023 where RSV-B was the dominant subtype._
