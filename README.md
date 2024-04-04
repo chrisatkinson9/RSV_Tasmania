@@ -13,3 +13,8 @@ _Figure 4: Phylogenetic tree of RSV-B specimens detected in Tasmania from 2022-2
 <br>
 ![RSV TAS epifish plot by clade (2021-2023)](https://github.com/chrisatkinson9/RSV_Tasmania/assets/165222680/e5dcec61-b4e2-4f34-baee-d95307c9744e)  
  _Figure 5: Alternate epi-fishplot with further breakdown of Tasmanian RSV specimen subtypes into clade designations (2021-2023). As per the above trees, the RSV-A clades A.D.1.2 and A.D.1.3 were the dominant clades circulating during the 2021 off-season surge, but a lineage replacement event after the COVID borders were relaxed has lead to these clades no longer being detected in Tasmania._
+<br>
+<br>
+<br>
+![rsv tas epifish plot jun 2017-dec 2023](https://github.com/chrisatkinson9/RSV_Tasmania/assets/165222680/04844675-1a91-4a96-a00c-ba4a0ecfbeb9)
+_Figure 6: Expanded epi-fishplot of RSV subtypes in Tasmania covering the period of June 2017 to December 2023. No subtype data was available for timepoints prior to June 2017. The 2021 off-season surge, during which only RSV-A clades were detected in Tasmania, was notably preceeded by the 2019 season during which RSV-A was especially dominant, although no data is available on the clades circulating in Tasmania during this time._
