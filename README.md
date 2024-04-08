@@ -1,5 +1,4 @@
 ## Repository of RSV phylogenetic trees and fishplots (Tasmania)
-<br>
 The following figures are supplimentary materials to the ECCMID 2024 presentation 'Evolving Beyond the Borders: Tasmania's COVID mitigation strategies provide insights into respiratory syncytial virus evolution'.
 <br>
 <br>
