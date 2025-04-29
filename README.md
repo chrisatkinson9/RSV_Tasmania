@@ -27,7 +27,7 @@ _Figure 6: SkyGrid reconstruction plot of Tasmanian RSV-A and RSV-B specimens (2
 <br>
 <br>
 <br>
-__Figures 7 and 8: Animated maps demonstrating the spread of RSV-A and RSV-B between Tasmania and mainland Australia through time. To view, click on the link and press play._
+_Figures 7 and 8: Animated maps demonstrating the spread of RSV-A and RSV-B between Tasmania and mainland Australia through time. To view, click on the link and press play._
 
 RSV-A: https://view.spreadviz.org/?output=521cb990-a20c-4944-8c49-a572d0ffdd19/1c5a7714-eaf5-449f-9df0-3257c60fa71a.json&maps=AU
 
